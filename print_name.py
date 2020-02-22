@@ -5,4 +5,4 @@ print("Please enter the below information")
 name = input("Please Enter your name: ")
 
 # Print name
-print("Hello! "+name)
+print("Hello! " + name + ", Welcome to python!")
